@@ -1,4 +1,4 @@
-package com.musma.java_io_nio_nonbloking;
+package com.musma.java_io_nio_nonbloking.io;
 
 import java.io.InputStream;
 import java.io.OutputStream;
